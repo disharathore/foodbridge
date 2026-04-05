@@ -1,8 +1,8 @@
 # FoodBridge 🍛
 > Real-time food surplus rescue platform — built for **Feeding India by Zomato**
 
-**Live Demo:** [foodbridge-client.vercel.app](https://foodbridge-client.vercel.app) ← add your URL here  
-**Backend API:** [foodbridge-server.onrender.com](https://foodbridge-server.onrender.com) ← add your URL here
+**Live Demo:** [foodbridge-client.vercel.app](https://foodbridgezomato.netlify.app) ← add your URL here  
+**Backend API:** [foodbridge-server.onrender.com](https://foodbridge-fqcd.onrender.com/) ← add your URL here
 
 ---
 
